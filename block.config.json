@@ -1,0 +1,1 @@
+{"name":"removeTodo10241024","type":"function","source":{"https":"https://github.com/Digambaran/removeTodo10241024","ssh":"git@github.com:Digambaran/removeTodo10241024.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":false}
